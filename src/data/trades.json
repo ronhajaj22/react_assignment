@@ -1,0 +1,7 @@
+{
+    "trades":  [
+        {"td":"2021-10-11 01:02:22","side":"Buy","product":"BTC-USD", "quantity":"0.016", "price":"52,921.9914", "cp":"Cumberland", "pp":"0.226", "spl":"0.20482", "type":"hedge", "execution":"Rest API", "status":"ON"},
+        {"td":"2021-02-15 04:55:12","side":"Sell","product":"BTC-XLM", "quantity":"0.016", "price":"0.4914", "cp":"Coinflip GPA DBA Holdings", "pp":"834.192", "spl":"0.20482", "type":"hedge", "execution":"Rest API", "status":"ON"},
+        {"td":"2021-01-22 07:25:32","side":"Buy","product":"BTC-XRP", "quantity":"0.016", "price":"0.9914", "cp":"Cumberland", "pp":"34444.226", "spl":"0.20482", "type":"hedge", "execution":"Rest API", "status":"ON"}
+    ]
+}
